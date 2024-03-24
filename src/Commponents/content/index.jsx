@@ -35,8 +35,9 @@ const Contenet = () => {
             CA – 0x3576eff2be8b1a31782b3e8dfd962a6ddb087890
           </p>
         </div> */}
+        <a href="https://roachrallyraces.xyz"><button >START BETTING</button></a>
         <div className="forF btn-div">
-          <button >START BETTING</button>
+     
           <div className="icon-div">
             <a href="https://t.me/RoachRally">
               {" "}

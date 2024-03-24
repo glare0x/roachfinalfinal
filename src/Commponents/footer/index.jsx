@@ -16,7 +16,7 @@ const Footer = () => {
           <img src='\images\White Roach.png' alt='White'/>
         </div>
         <div className='btn-div'>
-          <button>START BETTING</button>
+        <a href="https://roachrallyraces.xyz"><button >START BETTING</button></a>
         </div>
       </div>      
     </div>
