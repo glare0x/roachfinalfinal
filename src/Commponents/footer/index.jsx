@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className='content'>
           <h2>Where speed meets antenna!</h2>
-          <p>Place Your Wagers on the Fastest Roaches in the Race! Experience the thrill as these champion crawlers dash for glory. It's not just a race; it's the ultimate test of speed and survival. Who will you back in the ultimate showdown?</p>
+          <p>Place Your Sponsors on the Fastest Roaches in the Race! Experience the thrill as these champion crawlers dash for glory. It's not just a race; it's the ultimate test of speed and survival. Who will you back in the ultimate showdown?</p>
         </div>
         <div className='image-div'>
           <img src='\images\Purp Roach.png' alt='Purple Roach'/>
@@ -16,7 +16,7 @@ const Footer = () => {
           <img src='\images\White Roach.png' alt='White'/>
         </div>
         <div className='btn-div'>
-        <a href="https://roachrallyraces.xyz"><button >START BETTING</button></a>
+        <a href="https://roachrallyraces.xyz"><button >START SPONSORING</button></a>
         </div>
       </div>      
     </div>
